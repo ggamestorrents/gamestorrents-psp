@@ -1,2 +1,2 @@
 # gamestorrents-psp
-Check PSP Games Ratings And Reviews on https://www.ggamestorrents.com/psp/
+Check PSP Games Ratings And Reviews on https://ggamestorrents.com/psp/
